@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ronak Jat</h1>
 <h3 align="center">Passionate developer</h3>
 
-- 🌱 I’m currently learning ** AI/Ml , Python and Exploring Hardware**
+- 🌱 I’m currently learning **AI/Ml , Python and Exploring Hardware**
 
 - 💬 Ask me about **python ,C , Arduino,Esp**
 
