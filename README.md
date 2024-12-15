@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/ronak-jat/Ronak-Jat/blob/main/_Pixie_%20Stream%20Graphics.gif)
 
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Luckiest+Guy&pause=1000&color=14d7e1&center=true&random=false&width=435&lines=Hi%2C+I+am+Ronak+Jat" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Luckiest+Guy&pause=1000&color=14d7e1&center=true&random=false&width=535&lines=Hi%2C+I+am+Ronak+Jat" alt="Typing SVG" /></a>
   </h1>
 <h3 align="center">Passionate developer</h3>
 
