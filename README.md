@@ -13,7 +13,7 @@
 
 ### 🚀 About Me
 - 🌱 I’m currently learning **AI/ML, Python, and Exploring Hardware**
-- 💬 Ask me about **Python, C, Arduino, ESP**
+- 💬 Ask me about **Python, C, Arduino**
 - 📫 Reach me at **ronakjat789@gmail.com**
 
 ### 🌐 Connect with me:
