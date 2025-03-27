@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Gloria+Hallelujah&pause=1000&color=14d7e1&center=true&random=false&width=535&lines=Hi%2C+I+am+Ronak+Jat" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=9061ed&center=true&random=false&width=535&lines=Hi%2C+I+am+Ronak+Jat" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -11,10 +11,12 @@
   <strong>Passionate Developer | AI/ML Enthusiast </strong>
 </p>
 
+
 ### 🚀 About Me
 - 🌱 I’m currently learning **AI/ML, Python, and Exploring Hardware**
 - 💬 Ask me about **Python, C, Arduino**
 - 📫 Reach me at **ronakjat789@gmail.com**
+
 
 ### 🌐 Connect with me:
 <p align="center">
@@ -25,6 +27,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
+
 
 ### 🛠️ Languages & Tools:
 <p align="center">
@@ -45,10 +48,16 @@
   </a>
 </p>
 
+
 ### 📊 GitHub Stats:
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ronak-jat&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ronak-jat&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronak-jat&theme=radical" alt="GitHub Streak" />
 </p>
 
 
