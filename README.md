@@ -57,5 +57,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ronak-jat&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronak-jat&theme=radical" />
-</p>
+  <img src="https://streak-stats.demolab.com/?user=ronak-jat&theme=radical" >
+</p
